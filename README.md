@@ -10,4 +10,4 @@
 
 ![alt text][screenshot]
 
-[screenshot]:https://github.com/ZaideRahman/html_css_layout_p1/blob/main/full%20layout_p1.jpg
+[screenshot]:https://github.com/ZaideRahman/html_css_layout_p1/blob/main/new.jpg
